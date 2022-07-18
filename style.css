@@ -1,0 +1,44 @@
+*{
+    background-color: blanchedalmond;
+}
+
+.heading{
+    color: red;
+    font-size: 36px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width:600px;
+    height:400px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main,
+.end{
+    color: darkgreen;
+    font-size: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding:1px; margin: 1px;
+}
+
+.end{
+    font-weight: bold;
+}
+
+.recipes{
+    font-size: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.myUL{
+    display: inline-block;
+    text-align: left;
+    padding:2px; margin: 2px;
+}
